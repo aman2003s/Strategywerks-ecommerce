@@ -3,6 +3,40 @@
 ## Overview
 This project is an E-commerce Product Dashboard built using React, Redux, and Material-UI. It allows users to search, filter, and sort products, with dynamic data loading and responsive design.
 
+
+## Setup Instructions
+### Prerequisites
+- Node.js (version 12 or higher)
+- npm or yarn
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aman2003s/Strategywerks-ecommerce.git
+   cd Strategywerks-ecommerce
+   ```
+
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
+### Running the Application
+3. Start the development server:
+     ```bash
+    npm run dev
+    ```
+
+4. Open your browser and navigate to http://localhost:5173 to view the application.
+
+### Building for Production
+5. To build the application for production:
+     ```bash
+    npm run build
+    ```
+
+6. The production-ready files will be located in the build directory.
+
+
 ## Design Decisions
 
 ### 1. Modular Components
